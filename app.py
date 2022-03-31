@@ -20,7 +20,8 @@ data = {
          'Roman',
          'Marine',
          'Raz',
-         'Yuval Z'   
+         'Yuval Z',
+         'Placeholder'   
          ],
     'address':
         [
@@ -34,7 +35,8 @@ data = {
          "0xce04b56115e76918a998e1bdf989d56ff329b252",
          "0xb9d88621e03c4aceaf6572f0aef720a8fe37f03b",
          "0xa68166badfc75a15ee2f8a30a8230f8e1b8b4f82",
-         "0xa8fe77d55fc8280d65b8beb1b20c26f4336c7fd4"
+         "0xa8fe77d55fc8280d65b8beb1b20c26f4336c7fd4",
+         "0x669167db9d6d213294bdf3125908aec8bdff56bb"   
          ]
 }
 df = pd.DataFrame(data)
