@@ -5,7 +5,7 @@ import plotly
 import plotly.express as px
 import json
 import time
-st.set_page_config(page_title='EF Token', page_icon=':smiley')
+st.set_page_config(page_title='EF Token', page_icon='https://static.wixstatic.com/media/f97a8a_0792789db3a94405b98c6182a72e7c6d~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/f97a8a_0792789db3a94405b98c6182a72e7c6d~mv2.png')
 
 data = {
     'Name':
