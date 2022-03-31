@@ -21,7 +21,7 @@ data = {
          'Marine',
          'Raz',
          'Yuval Z',
-         'Placeholder'   
+         'Franzi'   
          ],
     'address':
         [
