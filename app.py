@@ -21,7 +21,8 @@ data = {
          'Marine',
          'Raz',
          'Yuval Z',
-         'Franzi'   
+         'Franzi',
+         'Ido'  
          ],
     'address':
         [
@@ -36,7 +37,8 @@ data = {
          "0xb9d88621e03c4aceaf6572f0aef720a8fe37f03b",
          "0xa68166badfc75a15ee2f8a30a8230f8e1b8b4f82",
          "0xa8fe77d55fc8280d65b8beb1b20c26f4336c7fd4",
-         "0x669167db9d6d213294bdf3125908aec8bdff56bb"   
+         "0x669167db9d6d213294bdf3125908aec8bdff56bb",
+         "0x047386553d23b0a581cfcdbb068462e0ada9207b"   
          ]
 }
 df = pd.DataFrame(data)
